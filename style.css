@@ -1918,7 +1918,7 @@ footer{
 @media screen and (max-width:500px){
     .inicio .contenido-banner{
         max-width: 280px;
-        margin-top: -50px;
+        margin-top: 80px;
     }
     .skills .fila .col .contenedor-intereses .interes{
         width: 100%;
